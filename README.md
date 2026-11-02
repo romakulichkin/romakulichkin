@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Roman 👋
 
-<!--
-**romakulichkin/romakulichkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Data Analysis student at **HSE University** (Faculty of Computer Science), Moscow.
 
-Here are some ideas to get you started:
+### 🔭 What I do
+- Machine learning: tabular data, NLP, computer vision
+- Taking part in Kaggle competitions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+Python · pandas · NumPy · scikit-learn · PyTorch · C++ · SQL
+
+### 🏆 Highlights
+- 6th / 81 — image classification (Kaggle community competition)
+
+### 📫 Contacts
+[Kaggle](https://www.kaggle.com/romakulichkin) · [Telegram](https://t.me/romakulichkin)
